@@ -6,8 +6,9 @@
   </a>
 </h1>
 <br>
+<h4 ><code> A passionate Software Engineer from Djibouti</code> </h4>
 
-#### ` A passionate Software Engineer from Djibouti ` 
+
 
 🚀 Passionate about tech and programming<br>
 🎓 I graduated from Beihang University, Department of Computer Science (Master)<br>
