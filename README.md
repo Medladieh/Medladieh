@@ -1,4 +1,4 @@
-# Hi , I'm Med Ladieh! 👋
+# Hi 👋 , I'm [ Med Ladieh !](https://github.com/Medladieh)
 
 #### ` A passionate Software Engineer from Djibouti ` 
 
