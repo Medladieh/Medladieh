@@ -1,6 +1,7 @@
-# Hi there, I'm Med Ladieh! 👋
+# Hi , I'm Med Ladieh! 👋
 
 ### 💫 About Me:
+#### ` A passionate Software Engineer from Djibouti `
 ---
 🚀 Passionate about tech and programming<br>
 💻 Exploring web development, PHP, and more<br>
