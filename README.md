@@ -1,8 +1,9 @@
 # Hi , I'm Med Ladieh! 👋
 
-#### ` A passionate Software Engineer from Djibouti `
+#### ` A passionate Software Engineer from Djibouti ` 
 
 🚀 Passionate about tech and programming<br>
+🎓 I graduated from Beihang University, Department of Computer Science (Master)<br>
 💻 Exploring web development, PHP, and more...<br>
 📚 Lifelong learner and knowledge seeker<br>
 🎯 Ambitious and goal-oriented
@@ -31,8 +32,7 @@
 - 📖 Reading about philosophy and languages  
 - 🎮 Gaming & tech tinkering  
 
-### ⚡ **Fun Fact:**  
-##
-I believe small steps every day lead to big achievements! ✨
+### ⚡ **Fun Fact:** 
+                  I believe small steps every day lead to big achievements! ✨
 
 
