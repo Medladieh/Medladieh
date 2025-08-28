@@ -1,4 +1,11 @@
-# Hi 👋 , I'm [ Med Ladieh !](https://github.com/Medladieh)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Medladieh.Medladieh"> <br>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+Mohamed+Ladieh!....;Welcome+to+my+github!&center=true&size=30">
+  </a>
+</h1>
+<br>
 
 #### ` A passionate Software Engineer from Djibouti ` 
 
@@ -12,6 +19,8 @@
 ### 🌐 Socials:
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamedladieh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medwick96@gmail.com) 
+
+
 
 ### 🧰 Languages and Tools:
 ---
