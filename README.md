@@ -4,7 +4,7 @@
 #### ` A passionate Software Engineer from Djibouti `
 
 🚀 Passionate about tech and programming<br>
-💻 Exploring web development, PHP, and more<br>
+💻 Exploring web development, PHP, and more...<br>
 📚 Lifelong learner and knowledge seeker<br>
 🎯 Ambitious and goal-oriented
 
