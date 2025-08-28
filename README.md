@@ -1,6 +1,6 @@
 # Hi there, I'm Med Ladieh! 👋
 
-# 💫 About Me:
+### 💫 About Me:
 
 🚀 Passionate about tech and programming<br>
 💻 Exploring web development, PHP, and more<br>
