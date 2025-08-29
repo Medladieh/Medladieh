@@ -29,8 +29,6 @@
 ### 📊 Stats:
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Medladieh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true) 
-  &nbsp;&nbsp;
-![](https://github-contributor-stats.vercel.app/api?username=Medladieh&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 ### 🎨 **Interests & Hobbies**  
