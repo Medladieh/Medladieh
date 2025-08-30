@@ -37,7 +37,12 @@
 - 📖 Reading about philosophy and languages  
 - 🎮 Gaming & tech tinkering  
 
-### ⚡ **Fun Fact:** 
-                  I believe small steps every day lead to big achievements! ✨
+
+<h3 align="center">⚡ Fun Fact ⚡</h3>
+<div align="center">
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
+</div>
+</br>
+                   <p align="center"> I believe small steps every day lead to big achievements! ✨</p>
 
 
